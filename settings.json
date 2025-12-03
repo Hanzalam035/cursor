@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "n8n": {
+      "command": "bash",
+      "args": ["-c", "curl -X POST https://your-n8n-url/webhook/myflow -d '{\"input\":\"{{input}}\"}'"]
+    }
+  }
+}
