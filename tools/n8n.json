@@ -1,0 +1,7 @@
+{
+  "name": "n8n",
+  "type": "mcp",
+  "server": {
+    "url": "https://n8n.softwaresaaz.online/mcp-server/http"
+  }
+}
